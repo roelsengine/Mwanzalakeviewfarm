@@ -1374,8 +1374,8 @@ a {
   text-align: center;
 }
 .cid-ukAitZCjIG {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
   background-color: #000000;
 }
 .cid-ukAitZCjIG .mbr-fallback-image.disabled {
@@ -1415,10 +1415,11 @@ a {
 .cid-ukAitZCjIG .mbr-section-title,
 .cid-ukAitZCjIG .social-list {
   color: #ffffff;
+  text-align: center;
 }
 .cid-ukAhWx0woS {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #000000;
 }
 .cid-ukAhWx0woS .mbr-fallback-image.disabled {
@@ -1458,6 +1459,7 @@ a {
 .cid-ukAhWx0woS .mbr-section-title,
 .cid-ukAhWx0woS .social-list {
   color: #ffffff;
+  text-align: center;
 }
 .cid-ukzMofkH4F {
   padding-top: 2rem;
